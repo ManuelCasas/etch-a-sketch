@@ -1,0 +1,17 @@
+.window{
+    display:flex;
+    height:100%;
+    width:100%;
+    justify-content: center;
+}
+
+.flexContainer{
+    display:flex;
+    border:10px solid;
+    max-height:960px;
+    width: 960px;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+
